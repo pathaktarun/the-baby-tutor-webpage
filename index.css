@@ -1,0 +1,72 @@
+*{
+  margin:0px;
+  padding:0px;
+  
+  color:black;
+  background-color:Hex #F7CAC9;
+  font-family: 'Akaya Telivigala', cursive;
+}
+ul {
+  justify-content:space-evenly;
+  display: flex;
+  height:10vh ;
+   align-items: center;
+  list-style:none;
+  
+}
+.alphabet{
+  border:2px solid yellow;
+  background-color: Black;
+  height:10vh;
+  align-items: center;  
+}
+
+li{
+  font-weight: bold;
+   height: fit-content;
+  text-align: center;
+  color:white;  font-size: larger;
+}
+
+.body_container{
+  
+  
+  border:2px solid red;
+  height:400px;
+  width:600px;
+  margin: auto; 
+  margin-top:20px;
+ 
+}
+.input_container{
+
+    position: absolute;
+    left: 40%;
+    top:20%;
+
+}
+#image_container{
+  position:absolute;
+  height:300px;
+  width:400px;
+  top:30%;
+  left:32%;
+  border:2px solid black;
+  border-radius:3px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
